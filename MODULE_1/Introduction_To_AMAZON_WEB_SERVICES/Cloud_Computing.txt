@@ -1,0 +1,55 @@
+It is 
+1. On Demand Delivery of IT resources over the Internet : No anything specifice only as per user demand.
+2. Pay as you go : Only Pay what you spend for hour, minutes or resources. 
+
+
+DEPLOYMENT MODELS FOR CLOUD COMPUTING
+
+1. Cloud Based:
+    a) Run application on the cloud
+    b) Migrate Existing application to the Cloud.
+    c) Design and Build New Applications in the cloud 
+         can build application on low level infrastructure
+         that require some IT staff to manage them or can build Higher Level Infrastructuure that reduce the
+         managment, architecting , scaling requirenment on infrastructure.
+         
+         
+2. On Premise Deployment
+       a) Also called private cloud deployment.
+       b) Deploy resources by using virtualization and resource management tools.
+       c) Increase resource utilization by using application management and
+       virtualization technologies.
+       
+       
+3. Hybrid Deployment
+       a) Connect cloud-based resources to on-premises infrastructure.
+       b) Integrate cloud-based resources with legacy IT applications: With a hybrid deployment, 
+       the company would be able to keep the legacy applications on premises
+       while benefiting from the data and analytics services that run in the cloud.
+       
+       
+Benefits:-
+
+1. Trade Upfront expense for variable Expense
+   
+   Upfront expenses refers to data centers/ physical servers/ other resources....
+   that user need to pay or invest before using them.
+   Variable expnses refers to only pay for computing resources you consume instead of
+   investing heavily in data centers and servers before you know how you’re going to use them.
+   By taking a cloud computing approach that offers the benefit of variable expense, 
+   companies can implement innovative solutions while saving on costs.
+
+2. Focus on mantaining and investing money on managing infrastracture and server in data centers
+
+3. No need to guess capacity , you only pay for what you use, you can scale in and out.
+
+4. Because usage from hundreds of thousands of customers can aggregate in the cloud, 
+providers, such as AWS, can achieve higher economies of scale. The economy of scale 
+translates into lower pay-as-you-go prices. 
+
+5. Increased Speed and Agility 
+     The flexibility of cloud computing makes it easier for you to develop and deploy 
+     applications. Provides ou with more time to experiment and innovate. When computing
+     in data centers, it may take weeks to obtain new resources that you need.
+
+6. Provide low latency can be quickly accessible.with minimal delays. 
