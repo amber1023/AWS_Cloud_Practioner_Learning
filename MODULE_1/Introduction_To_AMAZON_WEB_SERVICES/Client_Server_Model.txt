@@ -1,0 +1,11 @@
+CLIENT SERVER MODEL
+
+In simple labguage it is like sending request to order a cappicino coffee  from from frontdesk 
+of coffieshop act like CLIENT 
+and your request goes to the barista Like the (Server) . FROM this your Cappicino (your request goes to the 
+same end client) frontdesk of coffie shop.
+
+In computing, client == {Web browser , Desktop Application ....} that person interact with  to make
+a request to compute servers.
+A server such as { EC2,...} sending your response as per your request.
+
