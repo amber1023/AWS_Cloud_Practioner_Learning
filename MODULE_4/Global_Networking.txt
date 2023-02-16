@@ -1,0 +1,15 @@
+1. Domain Name System (DNS)
+   Suppose that AnyCompany has a website hosted in the AWS Cloud. Customers enter the web address 
+   into their browser, and they are able to access the website. This happens because of Domain Name 
+   System (DNS) resolution. 
+   DNS resolution involves a customer DNS resolver communicating with a company DNS server.
+   
+
+2. Amazon Route 53
+   Amazon Route 53 is a DNS web service. It gives developers and businesses a reliable way to route
+   end users to internet applications hosted in AWS. 
+   Amazon Route 53 connects user requests to infrastructure running in AWS .
+   Route 53 is the ability to manage the DNS records for domain names. You can register new domain names directly in Route 53.
+   You can also transfer DNS records for existing domain names managed by other domain registrars.
+   This enables you to manage all of your domain names within a single location.
+   
