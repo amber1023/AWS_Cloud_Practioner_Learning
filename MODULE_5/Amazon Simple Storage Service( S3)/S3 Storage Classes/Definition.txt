@@ -1,0 +1,7 @@
+Amazon S3 storage classes
+You can choose from a range of storage classes to select a fit for your business and cost needs. 
+When selecting an Amazon S3 storage class, consider these two factors:
+
+How often you plan to retrieve your data
+How available you need your data to be
+
