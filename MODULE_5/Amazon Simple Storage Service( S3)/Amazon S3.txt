@@ -1,0 +1,11 @@
+
+   
+ Amazon Simple Storage Service (Amazon S3)
+1. S3 is a service that provides object-level storage.
+2. Amazon S3 stores data as objects in buckets.
+3. You can upload any type of file to Amazon S3, such as images, videos, text files, and so on.
+4. use Amazon S3 to store backup files, media files for a website, or archived documents.
+5. Amazon S3 offers unlimited storage space.
+6. When you upload a file to Amazon S3, you can set permissions to control visibility and access to it.
+7. You can also use the Amazon S3 versioning feature to track changes to your objects over time.
+
