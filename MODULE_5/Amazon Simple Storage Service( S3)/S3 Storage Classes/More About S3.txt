@@ -1,0 +1,34 @@
+a) S3 Standard
+   Designed for frequently accessed data
+   Stores data in a minimum of three Availability Zones.
+   
+   i) Provides high availability for objects. 
+   ii) This makes it a good choice for a wide range of use cases, such as websites,
+       content distribution, and data analytics. 
+   iii) has a higher cost than other storage classes intended for infrequently accessed data and archival storage.
+   
+ b) S3 Standard-Infrequent Access
+    Ideal for infrequently accessed data
+    Similar to Amazon S3 Standard but has a lower storage price and higher retrieval price
+    
+    i) Amazon S3 Standard-IA is ideal for data infrequently accessed but requires high availability when needed.
+    ii) Both Amazon S3 Standard and Amazon S3 Standard-IA store data in a minimum of three Availability Zones.
+    iii) Amazon S3 Standard-IA provides the same level of availability as Amazon S3 Standard but with a 
+         lower storage price and a higher retrieval price.
+    
+    
+ c) S3 one Zone-IA
+    Stores data in a single Availability Zone
+    Has a lower storage price than Amazon S3 Standard-IA
+    
+    i) which store data in a minimum of three Availability Zones, 
+      Amazon S3 One Zone-IA stores data in a single Availability Zone. 
+    ii) This makes it a good storage class to consider if the following conditions apply:
+
+       You want to save costs on storage.
+       You can easily reproduce your data in the event of an Availability Zone failure.
+       
+d) S3 Intelligentt Tiering
+    Ideal for data with unknown or changing access patterns
+    Requires a small monthly monitoring and automation fee per object
+    In the Amazon S3 Intelligent-Tiering storage class, Amazon S3 monitors objects’ access patterns. If you haven’t accessed an object for 30 consecutive days, Amazon S3 automatically moves it to the infrequent access tier, Amazon S3 Standard-IA. If you access an object in the infrequent access tier, Amazon S3 automatically moves it to the frequent access tier, Amazon S3 Standard.
