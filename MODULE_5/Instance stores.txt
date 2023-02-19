@@ -1,0 +1,4 @@
+1. Block-level storage volumes behave like physical hard drives.
+2. An instance store provides temporary block-level storage for an Amazon EC2 instance.
+3. An instance store is disk storage that is physically attached to the host computer for an EC2 instance
+4. When the instance is terminated, you lose any data in the instance store.
