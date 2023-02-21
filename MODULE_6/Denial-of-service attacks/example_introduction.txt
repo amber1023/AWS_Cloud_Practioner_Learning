@@ -1,3 +1,5 @@
 Customers can call the coffee shop to place their orders. After answering each call, a cashier takes the order and gives it to the barista. 
 
 However, suppose that a prankster is calling in multiple times to place orders but is never picking up their drinks. This causes the cashier to be unavailable to take other customers’ calls. The coffee shop can attempt to stop the false requests by blocking the phone number that the prankster is using. 
+
+In this scenario, the prankster’s actions are similar to a denial-of-service attack.
