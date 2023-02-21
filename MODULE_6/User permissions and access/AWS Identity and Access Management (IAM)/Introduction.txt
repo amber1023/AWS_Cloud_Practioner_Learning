@@ -1,0 +1,6 @@
+AWS Identity and Access Management (IAM)
+---> enables you to manage access to AWS services and resources securely.   
+--->IAM gives you the flexibility to configure access based on your company’s specific operational and security needs.
+IAM users, groups, and roles
+IAM policies
+Multi-factor authentication
