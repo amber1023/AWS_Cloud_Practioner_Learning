@@ -1,0 +1,8 @@
+Nonrelational databases
+  1. In a nonrelational database, you create tables. A table is a place where you can store and query data.
+  2. Nonrelational databases are sometimes referred to as “NoSQL databases” because they use structures other than rows and columns to organize data.
+  3. One type of structural approach for nonrelational databases is key-value pairs. With key-value pairs, data is organized into items (keys), and items have attributes (values).
+  4. In a key-value database, you can add or remove attributes from items in the table at any time.
+  
+  
+ 
