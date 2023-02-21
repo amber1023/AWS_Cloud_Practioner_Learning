@@ -1,0 +1,17 @@
+
+  The coffee shop has many items, such as coffee machines, pastries, money in the cash registers, and so on. You can think of these items as data. 
+  The coffee shop owners want to ensure that all of these items are secure, whether they’re sitting in the storage room or being transported between shop locations. 
+  In the same way, you must ensure that your applications’ data is secure while in storage (encryption at rest) and while it is transmitted, 
+  known as encryption in transit.
+  
+  
+  AWS Key Management Service (AWS KMS)
+  
+  enables you to perform encryption operations through the use of cryptographic keys.
+  A cryptographic key is a random string of digits used for locking (encrypting) and unlocking (decrypting) data.
+  You can use AWS KMS to create, manage, and use cryptographic keys.
+  You can also control the use of keys across a wide range of services and in your applications.
+  
+  
+  With AWS KMS, you can choose the specific levels of access control that you need for your keys. For example, you can specify which IAM users and roles are able to manage keys.
+  Alternatively, you can temporarily disable keys so that they are no longer in use by anyone. Your keys never leave AWS KMS, and you are always in control of them.
