@@ -1,0 +1,8 @@
+1. Development and test database migrations
+   Enabling developers to test applications against production data without affecting production users
+   
+2. Database consolidation
+   Combining several databases into a single database
+   
+3. Continuous replication
+   Sending ongoing copies of your data to other target sources instead of doing a one-time migration
