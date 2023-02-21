@@ -1,0 +1,4 @@
+Multi-factor authentication
+Have you ever signed in to a website that required you to provide multiple pieces of information to verify your identity? You might have needed to provide your password and then a second form of authentication, such as a random code sent to your phone. This is an example of multi-factor authentication.
+
+In IAM, multi-factor authentication (MFA) provides an extra layer of security for your AWS account.
