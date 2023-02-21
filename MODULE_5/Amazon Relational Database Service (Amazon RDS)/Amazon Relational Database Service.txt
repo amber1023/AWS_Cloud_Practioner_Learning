@@ -1,0 +1,8 @@
+Amazon Relational Database Service
+ i)   Amazon Relational Database Service (Amazon RDS) is a service that enables you to run relational databases in the AWS Cloud.
+ ii)  Amazon RDS is a managed service that automates tasks such as hardware provisioning, database setup, patching, and backups.
+ iii) With these capabilities, you can spend less time completing administrative tasks and more time using data to innovate your applications.
+ iv)  can integrate Amazon RDS with other services to fulfill your business and operational needs, such as using AWS Lambda to query your database from a serverless application.
+ v)   Amazon RDS provides a number of different security options. Many Amazon RDS database engines offer encryption at rest (protecting data while it is stored) and 
+      encryption in transit (protecting data while it is being sent and received).
+ 
