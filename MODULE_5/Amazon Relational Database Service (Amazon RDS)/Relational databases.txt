@@ -1,0 +1,5 @@
+1. In a relational database, data is stored in a way that relates it to other pieces of data. 
+2. An example of a relational database might be the coffee shop’s inventory management system. 
+3. Each record in the database would include data for a single item, such as product name, size, price, and so on.
+4. use structured query language (SQL) to store and query data.
+5. allows data to be stored in an easily understandable, consistent, and scalable way. 
